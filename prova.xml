@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<veterinario>
+<animale>
+<nome>filo</nome>
+<razza>criceto</razza>
+<eta>3</eta>
+</animale>
+<animale>
+<nome>mario</nome>
+<razza>cavallo</razza>
+<eta>23</eta>
+</animale>
+<animale>
+<nome>franco</nome>
+<razza>gatto</razza>
+<eta>10</eta>
+</animale>
+</veterinario>
